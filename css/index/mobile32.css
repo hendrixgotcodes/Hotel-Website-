@@ -1,0 +1,40 @@
+#button
+{
+    display: none;
+}
+#section2
+{
+    display: none;
+}
+#section3
+{
+    float: none;
+    max-width: 100%;
+}
+#section4,#section5,#section6
+{
+    float: none;
+    width: 100%
+}
+#section h1
+{
+    font-size: 1rem;
+    animation: none;
+}
+#center
+{
+    padding-top: 3rem;
+}
+#floatMenu
+{
+    display: none;
+}
+.navBar div ul a
+{
+    padding: 10px;
+}
+.navBar h1 a
+{
+    padding-top: 10px;
+    font-size: 17px;
+}

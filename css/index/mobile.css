@@ -1,0 +1,31 @@
+#button
+{
+    display: none;
+}
+#section2
+{
+    display: none;
+}
+#section3
+{
+    float: none;
+    max-width: 100%;
+}
+#section4,#section5,#section6
+{
+    float: none;
+    width: 100%
+}
+#section h1
+{
+    font-size: 1rem;
+    animation: none;
+}
+#center
+{
+    padding-top: 12rem;
+}
+#floatMenu
+{
+    display: none;
+}
